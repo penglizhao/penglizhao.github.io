@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 A Composite Dispatching rule for Multi-objective Aircraft Landing problem
 
-\[[PDF](https://help.github.com/categories/github-pages-basics/1.pdf)]|[poster]
+\[[Poster](https://github.com/zhaoph2008/zhaoph2008.github.io/raw/master/1.pdf)]|[PDF]
 
 
 
