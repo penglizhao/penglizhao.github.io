@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
+
+## Snapshots 
+
+PengliZhao is a graduate student from Nanjing university of Aeronautics and Astronautics. He majors in Air Traffic Management. 
 
 You can use the [editor on GitHub](https://github.com/zhaoph2008/zhaoph2008.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### CICTP2019
+### Publications
 
-[1] A Composite Dispatching rule for Multi-objective Aircraft Landing problem
+[1] A Composite Dispatching rule for Multi-objective Aircraft Landing problem.CICTP2019.Nanjing China
 
 \[[Poster](<https://github.com/zhaoph2008/zhaoph2008.github.io/raw/master/1.pdf>)] [PDF]
 
