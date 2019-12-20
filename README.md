@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [1] A Composite Dispatching rule for Multi-objective Aircraft Landing problem.CICTP2019.Nanjing China
 
-\[[Poster](<https://github.com/zhaoph2008/zhaoph2008.github.io/raw/master/papers/1poster.pdf>)] \[[PDF](<https://github.com/zhaoph2008/zhaoph2008.github.io/raw/master/papers/1article.pdf>)]
+\[[Poster](<https://zhaoph2008.github.io/papers/1poster.pdf>)] \[[PDF](<https://zhaoph2008.github.io/papers/1article.pdf>)]
 
 
 
