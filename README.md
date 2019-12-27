@@ -1,51 +1,92 @@
-## Welcome to My Pages
 
-## Snapshots 
+# Pengli Zhao 赵鹏力
+## About me
+![img](<https://zhaoph2008.github.io/img.jpg>)<br>
+My name is Pengli Zhao. I am a graduate student at Nanjing University of Aeronautics and Astronautics. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
+This is my [CV](./cv.pdf).
 
-PengliZhao is a graduate student from Nanjing university of Aeronautics and Astronautics. He majors in Air Traffic Management. 
+## Research Interests
+Arrival Management, Air traffic Simulation, Trajectory analysis and Airport Operation
+## Education
+- Nanjing University of Aeronautics and Astronautics<br>
+M.S. Candidate in Air traffic control automation and intelligence, _Sep.2017-Present_<br>
+Research focus: Arrival Sequencing and scheduling<br>
+Advisor: Prof. [Junfeng Zhang](http://cca.nuaa.edu.cn/2017/1110/c4798a102560/page.htm)
 
-You can use the [editor on GitHub](https://github.com/zhaoph2008/zhaoph2008.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Nanjing University of Aeronautics and Astronautics <br>
+Bachelor in Air Traffic Management, _Sep.2013-Jul.2017_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Experience:
+### DST for AMAN under CDO
 
-### Publications
+_Collaboration with Boeing (China) Research and Technology and COMAC
+December 2017 – July 2019_
 
-[1] A Composite Dispatching rule for Multi-objective Aircraft Landing problem.CICTP2019.Nanjing China
-\[[Poster](<https://zhaoph2008.github.io/papers/1poster.pdf>)] \[[PDF](<https://zhaoph2008.github.io/papers/1article.pdf>)]
+This project was aiming to develop a decision support tool for ANAN under Continue Descent Operation (CDO). It could receive real-time data from radar simulator and make real time sequencing and scheduling. My work focus on function and Human Interface development.
+-	Developed sequencing and scheduling function, go-around function.
+-	Developed insight and vivid Human Machine Interface.
+    - Display the sequencing information and Aircraft position in real-time.
+    - Proposed indicators of terminal status and visualized them with charts.
+-	Experimented on AMAN to verify the function.
+
+### AMAN Performance Evaluation
+
+_Collaboration with Central South Air Traffic Management Bureau, CAAC
+December 2017 - November 2019_
+
+This project was aiming to analysis historical radar data to evaluate the potential improvement after using AMAN in ZGHA. My work focus on Radar Data decoding and data visualization.
+-	Studied the `CAT062 (SDPS Track Messages) `Documentation;
+-	Developed a tool to parser data automatically;
+-	Developed a tool to replay the trajectory data for analysis;
+
+### PMS (Point Merge System) Flight Procedure evaluation
+
+_Collaboration with Airspace Management Center, ATMB, CAAC
+May 2019 - November 2019_
+
+This project was aiming to use radar simulator to evaluate a flight procedure designed for PMS in ZSPD. My work focus on trajectory data decoding and Vilification.
+-	Captured the ADS-B data from [OpenSky Database](https://opensky-network.org/) to find the PMS operation in Europe;
+-	Decoded the Radar Data in order to compare the operation performance and simulation result.
+-	Learned two ways to query the database([SQL query](https://opensky-network.org/data/impala) and [Python API](https://github.com/xoolive/traffic))
+
+## Publication
+- Zhang, Junfeng, **Pengli Zhao**, Yu Zhang, Ximei Dai, and Dong Sui. "Criteria selection and multi-objective optimization of aircraft landing problem." Journal of Air Transport Management 82 (2020): 101734.
 
 
+- **Zhao, Pengli**, Junfeng Zhang,Songwei Liu,Dong Sui and Rong Hu. "Scheduling Landing Aircraft with Multiple Objectives under Continuous Descent Operation" In TRB 2020 (Accepted)
 
-[Link to another page](./anotherpage.html).
+- **Zhao, Pengli**, Junfeng Zhang, and Lubao You. "A Composite Dispatching Rule-Based Method for Multi-Objective Aircraft Landing Problem." In CICTP 2019, pp. 4902-4913. 2019.
 
 
-### Markdown
+- Zhang, Junfeng, Zhixiang Zheng, **Pengli Zhao**, and Rong Hu. "Multi-objective integrated arrival & departure aircraft sequencing under the influence of sequential flights." In 2018 Integrated Communications, Navigation, Surveillance Conference (ICNS), pp. 3B3-1. IEEE, 2018.
+## Skill
+- **Programming**: C++, Matlab, Python
+- **Tools**       : Qt, Git, GoogleEarth
+- **Platform**     : Windows,Linux
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Awards
+Third-class Scholarship for Graduate Freshmen   2017
+## HighLights
+* I Made a [poster](<https://zhaoph2008.github.io/papers/1poster.pdf>) presentation on "A Composite Dispatching Rule-Based Method for Multi-Objective Aircraft Landing Problem" at CICTP 2019
+* I displayed AMAN in _Civil Aviation Science and Technology Innovation Achievements Exhibition_ in Beijing in June,2017
+* I Participated [Sunshine International Camp](http://en.ceoglobal.org/sunshine-international-camp/) at Xi'an in 2015
+* I had a Volunteer experience in Nanjing library in 2014
 
-```markdown
-Syntax highlighted code block
+## Language
+  - English
+  - Chinese(Native)
 
-# Header 1
-## Header 2
-### Header 3
+## Little but interesting things about me;
+  1. I come from Baoji City, Shaan'xi Province
+  2. I like jogging(PB:28:40/5KM)
+  3. I like swimming(Breaststroke,AverageSpeed 2:30/100m)
+  4. I like badminton. My favorite badminton player is [Nozomi Okuhara](http://nozomi-okuhara.com/)
 
-- Bulleted
-- List
+<!-- ## Month Reviews
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaoph2008/zhaoph2008.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[2019/12](./Dec_2019.md) -->
+## Contact
+  Email: zhaoph2008@163.com
+- - - 
+updated at Dec.2019<br>
+[Link to another page](./anotherpage.html)
