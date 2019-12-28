@@ -1,5 +1,3 @@
-
-# Pengli Zhao 赵鹏力
 ## About me
 <img src="https://zhaoph2008.github.io/img.jpg" alt="GitHub" title="img" width="150" height="150" /><br>
 My name is Pengli Zhao. I am a graduate student at Nanjing University of Aeronautics and Astronautics. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
