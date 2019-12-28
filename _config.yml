@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: [Pengli Zhao]
 description: [Nice to meet you here:)]
-show_downloads: ["true"]
+show_downloads: true
 github:
   tools_url: https://zhaoph2008.github.io/anotherpage.html
