@@ -1,3 +1,4 @@
+
 ## About me
 <img src="https://zhaoph2008.github.io/img.jpg" alt="GitHub" title="img" width="150" height="150" /><br>
 My name is Pengli Zhao. I am a graduate student at Nanjing University of Aeronautics and Astronautics. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
@@ -68,10 +69,10 @@ Third-class Scholarship for Graduate Freshmen   2017
   - Chinese(Native)
 
 ## Little but interesting things about me;
-  1. I come from Baoji City, Shaan'xi Province.
-  2. I like jogging(PB:28:40/5KM).
-  3. I like swimming(Breaststroke,AverageSpeed 2:30/100m).
-  4. I like badminton. My favorite badminton player is [Nozomi Okuhara](http://nozomi-okuhara.com/).
+  1. I come from [Baoji, Shaan'xi Province](https://en.wikipedia.org/wiki/Baoji).
+  2. I like jogging(PB:28:40/5KM),
+  3. I also like swimming(Breaststroke,AverageSpeed 2:30/100m) and badminton. 
+  4. My favorite badminton player is [Nozomi Okuhara](http://nozomi-okuhara.com/).
 
 <!-- ## Month Reviews
 
