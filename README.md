@@ -53,10 +53,11 @@ This project was aiming to use radar simulator to evaluate a flight procedure de
 
 ## Skill
 - **Programming**: C++, Matlab, Python
-- **Tools**       : Qt, Git, GoogleEarth
-- **Platform**     : Windows,Linux
+- **Tools**       : Qt, Git, GoogleEarth;LATEX
+- **Operation System**     : Windows,Linux
 
 ## Awards
+Foundation of Graduate Innovation Center in NUAA 2018
 Third-class Scholarship for Graduate Freshmen   2017
 ## HighLights
 * I made a [poster](<https://zhaoph2008.github.io/papers/1poster.pdf>) presentation on "A Composite Dispatching Rule-Based Method for Multi-Objective Aircraft Landing Problem" at CICTP 2019.
@@ -70,7 +71,7 @@ Third-class Scholarship for Graduate Freshmen   2017
 
 ## Little but interesting things about me;
   1. I come from [Baoji, Shaan'xi Province](https://en.wikipedia.org/wiki/Baoji).
-  2. I like jogging(PB:28:40/5KM),
+  2. I like jogging(PB:28:40/5KM).
   3. I also like swimming(Breaststroke,AverageSpeed 2:30/100m) and badminton. 
   4. My favorite badminton player is [Nozomi Okuhara](http://nozomi-okuhara.com/).
 
