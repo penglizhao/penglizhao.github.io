@@ -1,6 +1,6 @@
 
 ## About me
-<img src="https://zhaoph2008.github.io/img.jpg" alt="GitHub" title="img" width="150" height="150" /><br>
+<!-- <img src="https://zhaoph2008.github.io/img.jpg" alt="GitHub" title="img" width="150" height="150" /><br> -->
 My name is Pengli Zhao. I am a graduate student at Nanjing University of Aeronautics and Astronautics. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
 This is my [CV](./cv/cv.pdf).
 
@@ -15,9 +15,8 @@ Advisor: Prof. [Junfeng Zhang](http://cca.nuaa.edu.cn/2017/1110/c4798a102560/pag
 - Nanjing University of Aeronautics and Astronautics <br>
 B.S. in Air Traffic Management,College of Civil Aviation _Sep.2013-Jul.2017_
 ## Awards
-Foundation of Graduate Innovation Center in NUAA  2018
-Third-class Scholarship for Graduate Freshmen     2017
-
+Foundation of Graduate Innovation Center in NUAA  2018<br>
+Third-class Scholarship for Graduate Freshmen     2017<br>
 ## Project Experience:
 ### AMAN Performance Evaluation
 _Collaboration with Central South Air Traffic Management Bureau, CAAC<br>
@@ -63,8 +62,10 @@ and scheduling. My work focuses on functions development and experiment vilifica
 - **Zhao, Pengli**, Junfeng Zhang, and Lubao You. "A Composite Dispatching Rule-Based Method for Multi-Objective Aircraft Landing Problem." In CICTP 2019, pp. 4902-4913. 2019.
 
 - Zhang, Junfeng, Zhixiang Zheng, **Pengli Zhao**, and Rong Hu. "Multi-objective integrated arrival & departure aircraft sequencing under the influence of sequential flights." In 2018 Integrated Communications, Navigation, Surveillance Conference (ICNS), pp. 3B3-1. IEEE, 2018.
+
 - Zhang, Junfeng, **Pengli Zhao**, Dong Sui and Ximei Dai. \A new meta-heuristic approach for aircraft
 landing problem" Journal of Computational and Applied Mathematics, 2019 (Under Review)
+
 ## Skill
 - **Programming**: C++, Matlab, Python , SQL
 - **Tools**       : Qt, Git, GoogleEarth;LATEX
@@ -92,5 +93,5 @@ landing problem" Journal of Computational and Applied Mathematics, 2019 (Under R
 ## Contact
   Email: <zhaopengli@nuaa.edu.cn>
 - - - 
-updated at Jan.2020<br>
+Last updated: 2020/01.<br>
 <!-- [Link to another page](./anotherpage.html) -->
