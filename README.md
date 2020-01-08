@@ -14,10 +14,13 @@ Advisor: Prof. [Junfeng Zhang](http://cca.nuaa.edu.cn/2017/1110/c4798a102560/pag
 
 - Nanjing University of Aeronautics and Astronautics <br>
 B.S. in Air Traffic Management,College of Civil Aviation _Sep.2013-Jul.2017_
+
 ## Awards
 Foundation of Graduate Innovation Center in NUAA  2018<br>
 Third-class Scholarship for Graduate Freshmen     2017<br>
+
 ## Project Experience:
+
 ### AMAN Performance Evaluation
 _Collaboration with Central South Air Traffic Management Bureau, CAAC<br>
 December 2017 - November 2019_<br>
@@ -25,12 +28,12 @@ This project was aiming to analyze historical radar data to evaluate the potenti
 AMAN in Changsha Approach. I cooperate with a partner, my work focuses on radar data decoding
 and AMAN structure research. His work focuses on indicator selection and evaluation.
 - Design and development of tool for radar data decoding and visualization.
-  - Studied radar-encoding documentation.
-  - Development of automatic decoding tool and trajectory visitation tool for analysis.
+   - Studied radar-encoding documentation.
+   - Development of automatic decoding tool and trajectory visitation tool for analysis.
 - Design of test scenarios for AMAN functions verification.
 - Research based on KPI and arrival flight tightness.
-  - Analyzed and clarified the KPIs and modeling for multi-objective optimization under CDO.
-  - Research about the relationship between arrival tightness and computation time
+   - Analyzed and clarified the KPIs and modeling for multi-objective optimization under CDO.
+   - Research about the relationship between arrival tightness and computation time
 
 ### DST for AMAN under CDO
 _Collaboration with Boeing (China) Research and Technology and COMAC<br>
