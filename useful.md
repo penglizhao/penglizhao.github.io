@@ -1,5 +1,6 @@
 ---
-Layout:
+Layout: default
+title: Useful links
 ---
 ## Useful links
 
