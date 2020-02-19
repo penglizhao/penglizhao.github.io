@@ -66,7 +66,7 @@ and scheduling. My work focuses on functions development and experiment vilifica
 
 - Zhang, Junfeng, Zhixiang Zheng, **Pengli Zhao**, and Rong Hu. "Multi-objective integrated arrival & departure aircraft sequencing under the influence of sequential flights." In 2018 Integrated Communications, Navigation, Surveillance Conference (ICNS), pp. 3B3-1. IEEE, 2018.
 
-- Zhang, Junfeng, **Pengli Zhao**, Dong Sui and Ximei Dai. \A new meta-heuristic approach for aircraft
+- Zhang, Junfeng, **Pengli Zhao**, Dong Sui and Ximei Dai. ''A new meta-heuristic approach for aircraft
 landing problem" Journal of Computational and Applied Mathematics, 2019 (Under Review)
 
 ## Skill
@@ -96,5 +96,5 @@ landing problem" Journal of Computational and Applied Mathematics, 2019 (Under R
 ## Contact
   Email: <zhaopengli@nuaa.edu.cn>
 - - - 
-Last updated: 2020/01.<br>
+Last updated: 2020/02.<br>
 <!-- [Link to another page](./anotherpage.html) -->
