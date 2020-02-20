@@ -1,16 +1,12 @@
-<table cellpadding="20" style="font-size: 17px">
-  <tr>
-  <td><a href="./images/img1.jpg"><img src="./images/img1.jpg" alt="Pengli" title="img" width="250" height="250" /></a></td>
-  <td>
-  <h1> Pengli Zhao <span style="font-family:STFangsong; font-size:18pt"> (赵鹏力)</span> </h1>
-  <br> Research Assistant <br>
-  <br>Email: zhaopengli@nuaa.edu.cn
-</table>
- 
- 
+
+ <a href="./images/img1.jpg"><img src="./images/img1.jpg" alt="Pengli" title="img" width="250" height="250" /></a>
+
+Pengli Zhao(赵鹏力)<br>
+Research Assistant <br>
+Email: zhaopengli@nuaa.edu.cn<br>
+
  [[Education]](##Education) [[Experience]](##ProjectExperience) [[Publications]](##Publications) [[Skills]](##Skills) [[Highlights]](##HighLights) [[Misc.]](##Miscellaneous)<br>
 
-<br>
 My name is Pengli Zhao. I am a graduate student at Nanjing University of Aeronautics and Astronautics. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
 This is my [CV](./cv/cv.pdf).
 
