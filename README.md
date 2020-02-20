@@ -1,3 +1,26 @@
+
+<table cellpadding="20" style="font-size: 17px">
+      <tr>
+      <td><a href="images/img1.jpg"><img src='images/img1.jpg' alt="Pengli Zhao"/, height = 250></a></td>
+      <td>
+      <h1> Pengli Zhao <span style="font-family:STFangsong; font-size:18pt"> (赵鹏力)</span> </h1>
+      <!-- <font size="+1"><b>Ph.D. </b> in <b>Computer Science</b> <br><b>Stanford University</b> <br> <br> -->
+      Research Assistant <br>
+      <a href="https://cca.nuaa.edu">Nanjing University of Aeronautics and Astronautics</a> <br>
+      <br>
+      <b>Email</b>:zhaopengli@nuaa.edu.cn<br>
+      
+      [Awards](#About me)
+      [Project Experience](#Project Experience)<br>
+      [Publications]
+      [Skills]
+      [Highlights]
+      </td>
+      </tr>
+  </table>
+
+[Education](# About me)
+
 ## About me
 <!-- <img src="https://zhaoph2008.github.io/img.jpg" alt="GitHub" title="img" width="150" height="150" /><br> -->
 My name is Pengli Zhao. I am a graduate student at Nanjing University of Aeronautics and Astronautics. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
@@ -92,8 +115,6 @@ landing problem" Journal of Computational and Applied Mathematics, 2019 (Under R
 <!-- ## Month Reviews
 
 [2019/12](./Dec_2019.md) -->
-## Contact
-  Email: <zhaopengli@nuaa.edu.cn>
 - - - 
 Last updated: 2020/02.<br>
 <!-- [Link to another page](./anotherpage.html) -->
