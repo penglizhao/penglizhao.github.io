@@ -104,6 +104,7 @@ landing problem" Journal of Computational and Applied Mathematics, 2019 (Under R
   2. I like jogging(PB:28:40/5KM).
   3. I also like swimming(Breaststroke,AverageSpeed 2:30/100m) and badminton. 
   4. My favorite badminton player is [Nozomi Okuhara](http://nozomi-okuhara.com/).
+  5. I practice typing on [keybr.com](https://www.keybr.com/profile/03c4i81) recently.
 
 <!-- ## Month Reviews
 
