@@ -1,8 +1,8 @@
 
- |<img src="https://zhaoph2008.github.io/imgs/img1.jpg" alt="Pengli" title="img" width="250" height="250" /><br> | Pengli Zhao <br> Research Assistant <br> [Nanjing University of Aeronautics and Astronautics](https://cca.nuaa.edu)<br>Email:<zhaopengli@nuaa.edu.cn> <br> [[Education]](#Education) [[Experience]](#ProjectExperience) [[Publications]](#Publications)<br>[[Skills]](#Skills) [[Highlights]](#HighLights) [[Misc.]](#Miscellaneous)<br>|
- -------|--------------------------------------
-## About me
+ |<img src="./images/img1.jpg" alt="Pengli" title="img" width="250" height="250" /><br> | Pengli Zhao <br><br> Research Assistant <br><br> Email:<zhaopengli@nuaa.edu.cn> <br><br> [[Education]](##Education) [[Experience]](##ProjectExperience) [[Publications]](##Publications)<br>[[Skills]](##Skills) [[Highlights]](##HighLights) [[Misc.]](##Miscellaneous)<br>|
+ -------|--------------------------------------|
 
+<br>
 My name is Pengli Zhao. I am a graduate student at Nanjing University of Aeronautics and Astronautics. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
 This is my [CV](./cv/cv.pdf).
 
@@ -71,7 +71,7 @@ and scheduling. My work focuses on functions development and experiment vilifica
 - Zhang, Junfeng, **Pengli Zhao**, Dong Sui and Ximei Dai. ''A new meta-heuristic approach for aircraft
 landing problem" Journal of Computational and Applied Mathematics, 2019 (Under Review)
 
-## Skill
+## Skills
 - **Programming**: C++, Matlab, Python , SQL
 - **Tools**       : Qt, Git, GoogleEarth;LATEX
 - **Operation System**     : Windows,Linux
