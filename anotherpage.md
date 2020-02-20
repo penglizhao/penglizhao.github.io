@@ -3,9 +3,9 @@ Layout: default
 title: Another page
 ---
 
-[a](#Settings)
+[a](#settings)
 
-[b](#Jekyll-Themes)
+[b](#jekyll-themes)
 
 this is another page
 

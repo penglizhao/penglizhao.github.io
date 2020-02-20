@@ -1,11 +1,30 @@
 
- <a href="./images/img1.jpg"><img src="./images/img1.jpg" alt="Pengli" title="img" width="250" height="250" /></a>
+ <a href="./images/img1.jpg"><img src="./images/img1.jpg" alt="Pengli" title="Pengli" width="250" height="250" /></a>
 
-Pengli Zhao(赵鹏力)<br>
+**Pengli Zhao(赵鹏力)**<br>
 Research Assistant <br>
 Email: zhaopengli@nuaa.edu.cn<br>
 
- [[Education]](#Education) [[Experience]](#Project-Experience) [[Publications]](#Publications) [[Skills]](#Skills) [[Highlights]](#HighLights) [[Misc.]](#Miscellaneous)<br>
+ [[Education]](#education) [[Experience]](#project-experience) [[Publications]](#publications) [[Skills]](#skills) [[Highlights]](#highLights) [[Misc.]](#miscellaneous)<br>
+
+
+ <table>
+    <tr>
+      <td><a href="./images/img1.jpg"><img src='./images/img1.jpg' alt="Pengli Zhao" height = 250></a></td>
+      <td>
+      <h1> Pengli Zhao <span style="font-family:STFangsong; font-size:18pt"> (赵鹏力)</span> </h1>
+      <!-- <font size="+1"><b>Ph.D. </b> in <b>Computer Science</b> <br><b>Stanford University</b> <br> <br> -->
+      Assistant Professor of Computer Science <br>
+      <a href="https://nlp.cs.princeton.edu">Princeton NLP Group</a> <br>
+      <a href="http://aiml.cs.princeton.edu">Princeton CS Artificial Intelligence & Machine Learning</a><br>
+      <br>
+      <b>Email</b>: <tt>zhaopengli@nuaa.edu.cn</tt> <br>
+      <br>
+      <a href = "#education">[Education]</a> <a href = "#project-experience">[Experience]</a> <a href = "#publications">[Publications]</a> <br>
+      <a href = "#teaching">[Teaching]</a> <a href="#awards">[Awards]</a> <a href="#service">[Service]</a> <a href="#misc">[Misc.]</a> <br>
+      </td>
+    </tr>
+</table>
 
 My name is Pengli Zhao. I am a graduate student at Nanjing University of Aeronautics and Astronautics. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
 This is my [CV](./cv/cv.pdf).
