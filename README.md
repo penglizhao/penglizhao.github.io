@@ -1,28 +1,8 @@
 
-<table cellpadding="20" style="font-size: 17px">
-      <tr>
-      <td><a href="images/img1.jpg"><img src='images/img1.jpg' alt="Pengli Zhao"/, height = 250></a></td>
-      <td>
-      <h1> Pengli Zhao <span style="font-family:STFangsong; font-size:18pt"> (赵鹏力)</span> </h1>
-      <!-- <font size="+1"><b>Ph.D. </b> in <b>Computer Science</b> <br><b>Stanford University</b> <br> <br> -->
-      Research Assistant <br>
-      <a href="https://cca.nuaa.edu">Nanjing University of Aeronautics and Astronautics</a> <br>
-      <br>
-      <b>Email</b>:zhaopengli@nuaa.edu.cn<br>
-      
-      [Awards](#About me)
-      [Project Experience](#Project Experience)<br>
-      [Publications]
-      [Skills]
-      [Highlights]
-      </td>
-      </tr>
-  </table>
-
-[Education](# About me)
-
+ |<img src="https://zhaoph2008.github.io/imgs/img1.jpg" alt="Pengli" title="img" width="250" height="250" /><br> | Pengli Zhao <br> Research Assistant <br> [Nanjing University of Aeronautics and Astronautics](https://cca.nuaa.edu)<br>Email:<zhaopengli@nuaa.edu.cn> <br> [[Education]](#Education) [[Experience]](#ProjectExperience) [[Publications]](#Publications)<br>[[Skills]](#Skills) [[Highlights]](#HighLights) [[Misc.]](#Miscellaneous)<br>|
+ -------|--------------------------------------
 ## About me
-<!-- <img src="https://zhaoph2008.github.io/img.jpg" alt="GitHub" title="img" width="150" height="150" /><br> -->
+
 My name is Pengli Zhao. I am a graduate student at Nanjing University of Aeronautics and Astronautics. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
 This is my [CV](./cv/cv.pdf).
 
@@ -41,7 +21,7 @@ B.S. in Air Traffic Management,College of Civil Aviation _Sep.2013-Jul.2017_
 Foundation of Graduate Innovation Center in NUAA  2018<br>
 Third-class Scholarship for Graduate Freshmen     2017<br>
 
-## Project Experience:
+## Project Experience
 
 ### AMAN Performance Evaluation
 _Collaboration with Central South Air Traffic Management Bureau, CAAC<br>
@@ -106,7 +86,7 @@ landing problem" Journal of Computational and Applied Mathematics, 2019 (Under R
   - English
   - Chinese(Native)
 
-## Little but interesting things about me;
+## Miscellaneous
   1. I come from [Baoji, Shaan'xi Province](https://en.wikipedia.org/wiki/Baoji).
   2. I like jogging(PB:28:40/5KM).
   3. I also like swimming(Breaststroke,AverageSpeed 2:30/100m) and badminton. 
