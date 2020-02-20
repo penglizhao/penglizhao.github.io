@@ -89,7 +89,7 @@ landing problem" Journal of Computational and Applied Mathematics, 2019 (Under R
 - **Tools**       : Qt, Git, GoogleEarth;LATEX
 - **Operation System**     : Windows,Linux
 
-## HighLights
+## Highlights
 * I made a [poster](<https://zhaoph2008.github.io/papers/1poster.pdf>) presentation on "A Composite Dispatching Rule-Based Method for Multi-Objective Aircraft Landing Problem" at CICTP 2019.
 * I displayed AMAN in _Civil Aviation Science and Technology Innovation Achievements Exhibition_ in Beijing in June 2017.
 * I Participated [Sunshine International Camp](http://en.ceoglobal.org/sunshine-international-camp/) at Xi'an in 2015.
