@@ -1,5 +1,5 @@
 
- <table>
+ <table cellpadding="20" style="font-size: 17px">
     <tr>
       <td><a href="./images/img1.jpg"><img src="./images/img1.jpg" alt="Pengli" title="Pengli" width="250" height="250" /></a></td>
       <td>
@@ -11,7 +11,7 @@
       <b>Email</b>: <tt>zhaopengli@nuaa.edu.cn</tt> <br>
       <br>
       <a href = "#education">[Education]</a> <a href = "#project-experience">[Experience]</a> <a href = "#publications">[Publications]</a> <br>
-      <a href = "#skills">[Skills]</a> <a href="#awards">[Awards]</a> <a href="#highLights">[Highlights]</a> <a href="#miscellaneous">[Misc.]</a> <br>
+      <a href = "#skills">[Skills]</a> <a href="#awards">[Awards]</a> <a href="#highlights">[Highlights]</a> <a href="#miscellaneous">[Misc.]</a> <br>
       </td>
     </tr>
 </table>
