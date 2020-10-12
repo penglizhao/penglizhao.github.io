@@ -5,6 +5,7 @@ title: Useful links
 ## Useful links
 
 ### Tools
+* [Literature review tample](./useful/review_note.docx)
 * [OR Library](http://people.brunel.ac.uk/~mastjjb/jeb/info.html)
 * [color table](./useful/color.xlsx)
 * [Keybr](https://www.keybr.com/)
