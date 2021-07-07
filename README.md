@@ -16,7 +16,7 @@
     </tr>
 </table>
 
-My name is Pengli Zhao. I am a Phd student at University of South Florida. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
+My name is Pengli Zhao. I am a Ph.D. student at University of South Florida. I’m interested in Air Traffic Management, Arrival Sequencing and Scheduling, Trajectory Analysis and Data Visualization.
 This is my [CV](./cv/cv.pdf).
 
 ## Research Interests
@@ -104,10 +104,6 @@ and scheduling. My work focuses on functions development and experiment vilifica
 * I displayed AMAN in _Civil Aviation Science and Technology Innovation Achievements Exhibition_ in Beijing in June 2017.
 * I Participated [Sunshine International Camp](http://en.ceoglobal.org/sunshine-international-camp/) at Xi'an in 2015.
 * I had a Volunteer experience in Nanjing library in 2014.
-
-## Language
-  - English
-  - Chinese(Native)
 
 ## Miscellaneous
   1. I come from [Baoji, Shaan'xi Province](https://en.wikipedia.org/wiki/Baoji).
