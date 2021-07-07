@@ -4,7 +4,7 @@
       <td><a href="./images/img1.jpg"><img src="./images/img1.jpg" alt="Pengli" title="Pengli" width="250" height="250" /></a></td>
       <td>
       <h1> Pengli Zhao <span style="font-family:STFangsong; font-size:18pt"> (赵鹏力)</span> </h1>
-      Research Assistant <br>
+      Ph.D. Student <br>
       <!-- <a href="https://nlp.cs.princeton.edu">Princeton NLP Group</a> <br>
       <a href="http://aiml.cs.princeton.edu">Princeton CS Artificial Intelligence & Machine Learning</a><br> -->
       <br>
@@ -26,6 +26,7 @@ Arrival Management, Air Traffic Simulation, Trajectory Analysis and Airport Oper
 PhD student in Civil Engineering,Department of Civil and Environmental Engineering, _Aug.2020-Present_<br>
 Research focus: Environmental Impact Analysis<br>
 Advisor: Prof. [Yu Zhang](http://cee.eng.usf.edu/faculty/yuzhang/)
+
 - Nanjing University of Aeronautics and Astronautics<br>
 M.S. Candidate in Transportation Planning and Management,College of Civil Aviation _Sep.2017-Present_<br>
 Research focus: Arrival Sequencing and scheduling<br>
@@ -78,14 +79,20 @@ and scheduling. My work focuses on functions development and experiment vilifica
 
 ## Publications
 - Zhang, Junfeng, **Pengli Zhao**, Yu Zhang, Ximei Dai, and Dong Sui. "Criteria selection and multi-objective optimization of aircraft landing problem." Journal of Air Transport Management 82 (2020): 101734.
+[[PDF](./paper/Zhang2020Criteria.pdf)]
 
 - Zhang, Junfeng, **Pengli Zhao**, Dong Sui and Ximei Dai. ''A new meta-heuristic approach for aircraft landing problem" Transactions of Nanjing University of Aeronautics and Astronautics, 37(2):197-208, 2020
+[[PDF](./paper/Zhang2020Anew.pdf)]
 
 - **Zhao, Pengli**, Junfeng Zhang,Songwei Liu,Dong Sui and Rong Hu. "Scheduling Landing Aircraft with Multiple Objectives under Continuous Descent Operation" In TRB 2020 (Poster Presentation)
+[[Poster](./paper/Zhao2020Scheduling.pdf)]
 
 - **Zhao, Pengli**, Junfeng Zhang, and Lubao You. "A Composite Dispatching Rule-Based Method for Multi-Objective Aircraft Landing Problem." In CICTP 2019, pp. 4902-4913. 2019.
+[[PDF](./paper/Zhao2019AComposite.pdf)] | 
+[[Poster](./paper/Zhao2019AComposite_poster.pdf)]
 
 - Zhang, Junfeng, Zhixiang Zheng, **Pengli Zhao**, and Rong Hu. "Multi-objective integrated arrival & departure aircraft sequencing under the influence of sequential flights." In 2018 Integrated Communications, Navigation, Surveillance Conference (ICNS), pp. 3B3-1. IEEE, 2018.
+[[PDF](./paper/Zhang2018Multi.pdf)]
 
 ## Skills
 - **Programming**: C++, Matlab, Python , SQL
