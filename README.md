@@ -8,7 +8,7 @@
       <!-- <a href="https://nlp.cs.princeton.edu">Princeton NLP Group</a> <br>
       <a href="http://aiml.cs.princeton.edu">Princeton CS Artificial Intelligence & Machine Learning</a><br> -->
       <br>
-      <b><a href="mailto:penglizhao@usf.edu"></b> <tt>penglizhao@usf.edu</tt> <br>
+      <b>Email</b>: <a href="mailto:penglizhao@usf.edu">penglizhao@usf.edu</a> <br>
       <br>
       <a href = "#education">[Education]</a> <a href = "#project-experience">[Experience]</a> <a href = "#publications">[Publications]</a> <br>
       <a href = "#skills">[Skills]</a> <a href="#awards">[Awards]</a> <a href="#highlights">[Highlights]</a> <a href="#miscellaneous">[Misc.]</a> <br>
