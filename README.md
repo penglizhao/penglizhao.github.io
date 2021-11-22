@@ -78,6 +78,9 @@ and scheduling. My work focuses on functions development and experiment vilifica
     - Proficient with function development on Qt platform using C++.
 
 ## Publications
+
+- **Pengli Zhao**, Joesph Post, Zhiqiang Wu, and Yu Zhang. "Environmental Impact Analysis of On-Demand Urban Air Mobility: A Case Study of The Tampa Bay Area." In TRB 2022 (Poster Presentation)
+
 - Zhang, Junfeng, **Pengli Zhao**, Yu Zhang, Ximei Dai, and Dong Sui. "Criteria selection and multi-objective optimization of aircraft landing problem." Journal of Air Transport Management 82 (2020): 101734.
 [[PDF](./paper/Zhang2020Criteria.pdf)]
 
@@ -116,6 +119,6 @@ and scheduling. My work focuses on functions development and experiment vilifica
 
 [2019/12](./Dec_2019.md) -->
 - - - 
-Last updated: 2021/07.<br>
+Last updated: 2021/11.<br>
 
 [Link to another page](./useful.html)
