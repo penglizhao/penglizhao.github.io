@@ -23,7 +23,7 @@ This is my [CV](./cv/cv.pdf).
 Arrival Management, Air Traffic Simulation, Trajectory Analysis and Airport Operation.
 ## Education
 - University of South Florida<br>
-PhD student in Civil Engineering,Department of Civil and Environmental Engineering, _Aug.2020-Present_<br>
+PhD student in Civil Engineering,Department of Civil and Environmental Engineering, _Aug.2020-Apr.2022_<br>
 Research focus: Environmental Impact Analysis<br>
 Advisor: Prof. [Yu Zhang](http://cee.eng.usf.edu/faculty/yuzhang/)
 
@@ -79,7 +79,8 @@ and scheduling. My work focuses on functions development and experiment vilifica
 
 ## Publications
 
-- **Pengli Zhao**, Joesph Post, Zhiqiang Wu, and Yu Zhang. "Environmental Impact Analysis of On-Demand Urban Air Mobility: A Case Study of The Tampa Bay Area." In TRB 2022 (Poster Presentation)
+- **Pengli Zhao**, Joesph Post, Zhiqiang Wu, Wenbo Du,and Yu Zhang. "Environmental Impact Analysis of On-Demand Urban Air Mobility: A Case Study of The Tampa Bay Area." Transportation Research Part D: Transport and Environment 110:103438.
+[[PDF](./paper/Zhao2022Environmental.pdf)]
 
 - Zhang, Junfeng, **Pengli Zhao**, Yu Zhang, Ximei Dai, and Dong Sui. "Criteria selection and multi-objective optimization of aircraft landing problem." Journal of Air Transport Management 82 (2020): 101734.
 [[PDF](./paper/Zhang2020Criteria.pdf)]
@@ -119,6 +120,6 @@ and scheduling. My work focuses on functions development and experiment vilifica
 
 [2019/12](./Dec_2019.md) -->
 - - - 
-Last updated: 2021/11.<br>
+Last updated: 2023/01.<br>
 
 [Link to another page](./useful.html)
